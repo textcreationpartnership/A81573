@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A divine prayer necessary to be used every day in each particular family, during the time of this present Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81573</idno>
+            <idno type="STC">Wing D1731</idno>
+            <idno type="STC">ESTC R231407</idno>
+            <idno type="EEBO-CITATION">99897290</idno>
+            <idno type="PROQUEST">99897290</idno>
+            <idno type="VID">137013</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137013)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A divine prayer necessary to be used every day in each particular family, during the time of this present Parliament</title>
+               </titleStmt>
+               <extent>[4], 3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.] ;</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History --  17th century --  Early works to 1800.</term>
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137013:1"/>
+            <p>A DIVINE PRAYER NECESSARY TO BE VSED EVE<g ref="char:EOLhyphen"/>RY DAY IN EACH particular Family,</p>
+            <p>During the time of this preſent Parliament.</p>
+            <p>
+               <hi>Printed Anno</hi> 1641.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:137013:2"/>
+            <pb facs="tcp:137013:2"/>
+            <head>O Pray for the Peace of Jeruſalem.</head>
+            <p>SAint <hi>Paule</hi> telleth us what neede wee have of ſuch <hi>Pray<g ref="char:EOLhyphen"/>ing:</hi> I exhort you (ſaith hee) that firſt of all <hi>Supplications, Pray<g ref="char:EOLhyphen"/>ers, Intercesſions,</hi> and <hi>giving of thankes</hi> be made for all men, for Kings, and for all that are in authority, that we may lead a quiet, and peaceable life, in all godlineſſe, and honeſty, 1. <hi>Timothy.</hi> 2.1, 2.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:137013:3"/>
+            <p>IF thou aske any thing, either thou ſhalt have it, or if thou haſt it not, it is not expedient for thee to have it, and then God doth not thy will, that hee may doe his owne for thy good, ſaith</p>
+            <bibl>Elnat. Par.</bibl>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:137013:3"/>
+            <head>A Divine Prayer, neceſſary to be uſed every day, in each particular Family.</head>
+            <p>O Eternall God, and King of glory, (who makeſt all things; and prepa<g ref="char:EOLhyphen"/>reſt them for the glorifying of thine owne name) prepare our hearts to pray unto thee, and cauſe thine eare to heare us. We humbly thanke thee (Oh hea<g ref="char:EOLhyphen"/>venly Father) for all ſpirituall bleſſings where<g ref="char:EOLhyphen"/>with thou haſt bleſſed us, in heavenly things; and we alſo thanke thy Majeſty, for thy liberall bleſ<g ref="char:EOLhyphen"/>ſings wherewith thou haſt prevented us in earthly things; and that thou art become our moſt mer<g ref="char:EOLhyphen"/>cifull God, and loving father in thy beloved Son Jeſus Chriſt our Lord: We prayſe thy name al<g ref="char:EOLhyphen"/>ſo, for all the meanes of ſalvation, which thou haſt vouchſafed us, and the free paſſage of thy Word amongſt us: We bleſſe thee likewiſe, for our Roy<g ref="char:EOLhyphen"/>all King, and Queene, with their hopefull Proge<g ref="char:EOLhyphen"/>nie: And for that Honourable aſſembly in the, high Court of Parliament, now (at this time) by thy gracious providence aſſembled; wee humbly beſeech thee, (O our God) to cauſe our gracious King to rejoyce in thy ſtrength, and to be glad in thy ſalvation, and let his glory bee great in thee,
+<pb n="2" facs="tcp:137013:4"/>and (as a bleſſing) let him rule over us al his dayes, and make him glad with the joy of thy counte<g ref="char:EOLhyphen"/>nance, and as thou (O mercifull Protector) haſt been pleaſed to worke in his Royall heart, the cal<g ref="char:EOLhyphen"/>ling of that long deſired Parliament: ſo deare fa<g ref="char:EOLhyphen"/>ther grant, that it may never enter into his Maje<g ref="char:EOLhyphen"/>ſties breſt to diſſolve the ſame, untill they have confirmed the puritie of Religion, the glory of the King, and the peace of the Church and Com<g ref="char:EOLhyphen"/>mon-Wealth. We confeſſe, (O Lord) our Land is full of ſinne, and we have much offended thee: But Lord thou art full of mercy, we have all tranſ<g ref="char:EOLhyphen"/>greſſed exceedingly: But oh our God, let not thy Name looſe that great glory, nor thy Church that great benefite, which (through thy mercy) may now, by the continuance of that high and Honourable Aſſembly (thy grace continuing a<g ref="char:EOLhyphen"/>mongſt them) be greatly increaſed: And bleſſed Lord, give them wee beſeech thee, thy bleſſed give them favour in the Kings eyes, that thou mayeſt both reveale to them thy Will, and alſo cauſe the Kings Majeſty to delight to ſee the ſame performed, oh thou that art the giver of all good things, give unto our Royall King, ſuch a<g ref="char:EOLhyphen"/>bundance of wiſedome, whereby (O Lord) Hee may diſcerne thy faithfull Saints, and His true-hearted Subjects from Idolaters, from thine and his enemies; from Achitophells, and all Treache<g ref="char:EOLhyphen"/>rous Counſells, and Counſellors: O deare Father, let not the malice of the devill, with all his in<g ref="char:EOLhyphen"/>ſtruments, be ever able to raiſe up ſuch diviſions,
+<pb n="3" facs="tcp:137013:4"/>calumnies, and miſchiefes amongſt us, as may any wayes hinder the happy proceedings of that Ho<g ref="char:EOLhyphen"/>nourable aſſembly. And Lord, we beſeech thee, that all ſuch who any way goe about, to hinder the propagation of the Goſpell, the honour and Happineſſe of the King, or peace of the Church and Kingdome; Lord grant that the Counſells of <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ſuc<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ongſt us may be had in no eſteeme, but turned into fooliſhneſſe, and let their wicked de<g ref="char:EOLhyphen"/>viſes fall upon their own pates: But bleſſe O Lord, thy faithfull ones, and let the congregation of thy Saints be had in eſteeme, oh be favourable to thy Church here in <hi>England,</hi> and build up the Walls of this thy Ieruſalem, grave her upon the Palmes of thy hands, and let her Builders proſ<g ref="char:EOLhyphen"/>per, but cauſe her deſtroyers, and ſuch as would lay her waſt to be caſt out of her: O deare father, heare us wee beſeech thee, and have mercy upon us, O be not deafe towards us; leſt if thou anſwer us not graciouſly, wee periſh everlaſtingly: And give us faith to rely on thee continually, renew thy Image in us, give us the true knowledge of thee, endue us with Holineſſe before thee, and righteouſneſſe one towards another, give us Re<g ref="char:EOLhyphen"/>pentance for our ſins paſt, and grace to walke be<g ref="char:EOLhyphen"/>fore thee in the fulneſſe of thy Spirit, for the time to come, give us grace and peace in this life, &amp; in the life to come Eternall glory, through Jeſus Chriſt our Lord: To whom with thee O Father, and the holy Ghoſt, be all honour and glory, now and for ever, <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
